@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:nsukrpo/academ-ads-backend.git
+[submodule "mobile"]
+	path = mobile
+	url = git@github.com:nsukrpo/academ-ads-mobile.git
