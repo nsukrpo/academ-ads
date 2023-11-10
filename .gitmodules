@@ -4,3 +4,6 @@
 [submodule "mobile"]
 	path = mobile
 	url = git@github.com:nsukrpo/academ-ads-mobile.git
+[submodule "web"]
+	path = web
+	url = git@github.com:nsukrpo/academ-ads-web.git
